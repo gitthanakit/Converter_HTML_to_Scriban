@@ -1,0 +1,93 @@
+
+
+  /*Text*/
+  .font-color-blue{
+    color:#50c1ec;
+  }
+  .font-color-gray{
+    color:gray;
+  }
+  .font-color-white{
+    color: white;
+  }
+  .font-weight-bold{
+    font-weight: bold;
+  }
+  .font-weight-light{
+    font-weight: lighter;
+  }
+  .font-size-0{
+    font-size: 0.8rem;
+  }
+  .font-size-1{
+    font-size: 1rem;
+  }
+  .font-size-2{
+    font-size: 1.5rem;
+  }
+
+  /*width*/
+  .width-val20{
+    width: 20%;
+  }
+  .width-val40{
+    width: 40%;
+  }
+  .width-val60{
+    width: 60%;
+  }
+  .width-val80{
+    width: 85%;
+  }
+  .width-val100{
+    width: 100%;
+  }
+
+  /*corner range*/
+
+  .range-outside-left0{
+    margin-left: 0.5rem;
+  }
+  .range-outside-right0{
+    margin-right: 0.5rem;
+  }
+  .range-outside-top0{
+    margin-top: 0.5rem;
+  }
+  .range-outside-bottom0{
+    margin-bottom: 0.5rem;
+  }
+
+  .range-inside-left0{
+    padding-left: 0.5rem;
+  }
+  .range-inside-right0{
+    padding-right: 0.5rem;
+  }
+  .range-inside-top0{
+    padding-top: 0.5rem;
+  }
+  .range-inside-bottom0{
+    padding-bottom: 0.5rem;
+  }
+
+  /*width height*/
+  .width60{
+    width: 60%;
+  }
+  .witdh80{
+    width:80%;
+  }
+  .width100{
+    width: 100%;
+  }
+
+.height60{
+  height: 60%;
+}
+.height80{
+  height: 80%;
+}
+.height100{
+  height: 100%;
+}
